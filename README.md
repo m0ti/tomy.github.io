@@ -51,4 +51,6 @@ Nama saya Tomy Satria, saya adalah seorang web programmer pemula yang terus memp
 Jngn lupa add FB saya [moti satria](https://www.facebook.com/moti.satria)
 See u OFFLINE
 
+# Future Plan
+Saya ingin membuat website yang interactive dan dinamis. sehingga website ini bisa saya jadikan portofolio saya nantinya....
 
